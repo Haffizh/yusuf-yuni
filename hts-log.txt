@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 27 Sep 2022 09:25:52 at https://wefallinlove.katsudoto.id/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wefallinlove.katsudoto.id/ -O1 "D:\Undangan\rifky-lala\v4" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:26:54	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://wefallinlove.katsudoto.id/)
+09:27:36	Error: 	"Not Found" (404) at link https://katsudoto.id/media/template/icon/gold/01.png (from https://katsudoto.id/src/template/global.css?1664245549)
+09:27:36	Error: 	"Not Found" (404) at link https://katsudoto.id/media/template/icon/gold/02.png (from https://katsudoto.id/src/template/global.css?1664245549)
+09:27:36	Error: 	"Not Found" (404) at link https://katsudoto.id/media/template/icon/gold/03.png (from https://katsudoto.id/src/template/global.css?1664245549)
+09:27:36	Error: 	"Not Found" (404) at link https://katsudoto.id/media/template/icon/gold/04.png (from https://katsudoto.id/src/template/global.css?1664245549)
+09:27:36	Error: 	"Not Found" (404) at link https://katsudoto.id/media/template/icon/gold/05.png (from https://katsudoto.id/src/template/global.css?1664245549)
+09:27:36	Error: 	"Not Found" (404) at link https://katsudoto.id/media/template/icon/gray/01.png (from https://katsudoto.id/src/template/global.css?1664245549)
+09:27:36	Error: 	"Not Found" (404) at link https://katsudoto.id/media/template/icon/gray/02.png (from https://katsudoto.id/src/template/global.css?1664245549)
+09:27:36	Error: 	"Not Found" (404) at link https://katsudoto.id/media/template/icon/gray/03.png (from https://katsudoto.id/src/template/global.css?1664245549)
+09:27:36	Error: 	"Not Found" (404) at link https://katsudoto.id/media/template/icon/gray/04.png (from https://katsudoto.id/src/template/global.css?1664245549)
+09:27:36	Error: 	"Not Found" (404) at link https://katsudoto.id/media/template/icon/gray/05.png (from https://katsudoto.id/src/template/global.css?1664245549)
+09:27:36	Error: 	"Not Found" (404) at link https://katsudoto.id/media/template/icon/light/01.png (from https://katsudoto.id/src/template/global.css?1664245549)
+09:27:36	Error: 	"Not Found" (404) at link https://katsudoto.id/media/template/icon/light/02.png (from https://katsudoto.id/src/template/global.css?1664245549)
+09:27:36	Error: 	"Not Found" (404) at link https://katsudoto.id/media/template/icon/light/03.png (from https://katsudoto.id/src/template/global.css?1664245549)
+09:27:36	Error: 	"Not Found" (404) at link https://katsudoto.id/media/template/icon/light/04.png (from https://katsudoto.id/src/template/global.css?1664245549)
+09:27:36	Error: 	"Not Found" (404) at link https://katsudoto.id/media/template/icon/light/05.png (from https://katsudoto.id/src/template/global.css?1664245549)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 45 seconds : 174 links scanned, 157 files written (19660925 bytes overall) [19248232 bytes received at 183316 bytes/sec], 767093 bytes transferred using HTTP compression in 34 files, ratio 24%, 15.8 requests per connection
+(16 errors, 0 warnings, 0 messages)
